@@ -49,8 +49,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Henry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henrywithacapitald&hide=contribs,prs)" />
+ <img align="left" alt="Henry's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrywithacapitald" />
+ 
 
 </details>
 
